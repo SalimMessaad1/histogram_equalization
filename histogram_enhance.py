@@ -1,6 +1,6 @@
 # This code was developed by Messaad Salim
 # University of Msila
-# For contact, LinkedIn: https://www.linkedin.com/in/salim-messaad-3364b5273/
+# For contact, LinkedIn: https://www.linkedin.com/in/salimmessaad
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
